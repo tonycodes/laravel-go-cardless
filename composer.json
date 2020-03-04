@@ -2,15 +2,15 @@
     "name": "tonycodes/lumen-go-cardless",
     "description": "A Lumen adapted version of ollywarren/laravel-go-cardless",
     "keywords": ["laravel","go cardless", "composer", "package"],
-    "homepage": "https://github.com/ollywarren/laravel-go-cardless",
+    "homepage": "https://github.com/tonycodes/lumen-go-cardless",
     "require": {
         "gocardless/gocardless-pro": "^3.0"
     },
     "license": "MIT",
     "authors": [
         {
-            "name": "Olly Warren",
-            "email": "olly@ollywarren.com"
+            "name": "Tony James",
+            "email": "me@tony.codes"
         }
     ],
     "autoload": {
